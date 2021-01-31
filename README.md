@@ -1,3 +1,5 @@
+To understand better watch my youtube video : https://youtu.be/H0By2qCD5qM
+
 # Telegram-Auto-member-adder
 This is my project which is you can add Members to your telegram group with my automated python script
 
@@ -34,10 +36,4 @@ And the adder reads .csv file and add member to the target group.
 
 
 
-  ____                                    ____ _           _    _         
- / ___|  __ _ _ __ ___   ___  ___ _ __   / ___| |__   ___ | | _| |_   _  
- \___ \ / _` | '_ ` _ \ / _ \/ _ \ '__| | |   | '_ \ / _ \| |/ / | | |    
-  ___) | (_| | | | | | |  __/  __/ |    | |___| | | | (_) |   <| | |_| |  
- |____/ \__,_|_| |_| |_|\___|\___|_|     \____|_| |_|\___/|_|\_\_|\__, |  
-                                                                   |___/  
 
